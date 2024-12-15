@@ -1,0 +1,2 @@
+# Progettazione di un sito web
+Sto lavorando alla creazione di un sito web utilizzando strumenti come MkDocs, Git, Python e Visual Studio Code. Questo blog mi aiuterà a documentare e a tenere traccia del del lavoro che svolgo.
